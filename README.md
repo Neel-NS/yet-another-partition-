@@ -1,5 +1,5 @@
 # yet-another-partition-
-
+https://github.com/Neel-NS/yet-another-partition-.git
 Yet another Partition Problem Solution
 Problem :
 You are given an array of  integers. The task is to partition the array into an arbitrary number of groups (subarrays) such that bitwise  of beauties of the groups is maximized.
